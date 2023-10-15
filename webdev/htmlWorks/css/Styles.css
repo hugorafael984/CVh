@@ -1,0 +1,10 @@
+body {
+  background-color: powderblue;
+}
+
+hr {
+  background-color: midnightblue;
+  border-style: none;
+  height: 2px;
+  width: 60%;
+}
